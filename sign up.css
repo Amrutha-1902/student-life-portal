@@ -1,0 +1,122 @@
+body  
+{  
+    margin: 100;  
+    padding: 100;
+    background-color:#84C7AE; 
+    font-family: 'Arial'; 
+    background-attachment: fixed;
+     
+}  
+.diamond1 {
+width: 500px;
+height: 500px;
+background-color: #7FDBFF;
+transform: rotate(50deg);
+border-radius:100px;
+margin-left:-120px;
+opacity:1;
+margin-top:-200px;
+background:#C1E3D6;
+background-image: linear-gradient(white, #b9f6ca);
+
+} 
+.diamond2 {
+width: 500px;
+height: 500px;
+background-color: #7FDBFF;
+transform: rotate(50deg);
+border-radius:100px;
+margin-left:920px;
+margin-bottom:200px;
+margin:absolute;
+background:#C1E3D6;
+background-image: linear-gradient(white, #b9f6ca);
+
+} 
+.login{  
+        width:380px;
+        height:400px;
+        margin-top:-980px; 
+        margin-left:380px;
+        margin-bottom:30px;
+        overflow: hidden;  
+        padding: 80px;
+        background: #F5F5F5;  
+        border-radius: 15px ;
+        
+        
+}  
+h2{  
+    text-align: center;  
+    color: DAE0E6;  
+    position: absolute;
+    width: 483.23px;
+    height: 90.49px;
+    left: 430px;
+    top: 20px; 
+    font-family: 'Karla';
+    font-style: normal;
+    font-size: 26.01px;
+}  
+label{  
+    color:DAE0E6;  
+    font-size: 17px;
+    border:1px solid rgba(0, 0, 0, 0.1);  
+}  
+#Fname{  
+    width: 300px;  
+    height: 65px;  
+    border: none;  
+    border-radius: 7px;  
+    padding-left: 65px;
+    margin-bottom:7px;
+    font-family: 'Karla';
+    font-style: normal;  
+}  
+#Rname{  
+    width: 300px;  
+    height: 65px;  
+    border: none;  
+    border-radius: 7px;  
+    padding-left: 65px;
+    margin-bottom:7px;
+    font-family: 'Karla';
+    font-style: normal;  
+} 
+#email{  
+    width: 300px;  
+    height: 65px;  
+    border: none;  
+    border-radius: 7px;  
+    padding-left: 65px;
+    margin-bottom:7px;
+    font-family: 'Karla';
+    font-style: normal;  
+} 
+#Pass{  
+    width: 300px;  
+    height: 65px;  
+    border: none;  
+    border-radius: 7px;  
+    padding-left: 65px;
+    margin-bottom:7px;
+    font-family: 'Karla';
+    font-style: normal;  
+      
+}  
+button{  
+    width: 150px;  
+    height: 60px;  
+    border: none; 
+    border-radius: 10px;  
+    padding:7px; 
+    color: #FFFFFF; 
+    background-color:#84C7AE;
+    font-family: 'Karla';
+    font-style: normal;
+    font-size: 20px;
+    margin-left:110px;
+    
+  }
+  
+  
