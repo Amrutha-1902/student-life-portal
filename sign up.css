@@ -43,7 +43,7 @@ background-image: linear-gradient(white, #b9f6ca);
         padding: 80px;
         background: #F5F5F5;  
         border-radius: 15px ;
-        
+        position:relative;
         
 }  
 h2{  
