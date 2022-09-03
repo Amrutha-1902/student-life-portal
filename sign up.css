@@ -48,15 +48,16 @@ background-image: linear-gradient(white, #b9f6ca);
 }  
 h2{  
     text-align: center;  
-    color: DAE0E6;  
-    position: absolute;
+    color:black; 
+    position:absolute;  
     width: 483.23px;
     height: 90.49px;
-    left: 430px;
-    top: 20px; 
+    left: 270px;
+    top: 30px; 
     font-family: 'Karla';
     font-style: normal;
     font-size: 26.01px;
+    transform:translate(-50%,-50%);
 }  
 label{  
     color:DAE0E6;  
